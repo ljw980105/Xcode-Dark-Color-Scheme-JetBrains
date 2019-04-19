@@ -1,11 +1,11 @@
 <scheme name="Xcode Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-18T13:19:20</property>
+    <property name="created">2019-04-19T14:36:54</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-18T13:19:34</property>
-    <property name="originalScheme">Xcode copy</property>
+    <property name="modified">2019-04-19T14:37:14</property>
+    <property name="originalScheme">Xcode Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -13,17 +13,20 @@
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="0.99" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="4082d4" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="292a2f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="GUTTER_BACKGROUND" value="292a2f" />
     <option name="INDENT_GUIDE" value="4d5466" />
+    <option name="MODIFIED_LINES_COLOR" value="a0d975" />
     <option name="RIGHT_MARGIN_COLOR" value="4d5466" />
     <option name="SELECTED_INDENT_GUIDE" value="4d5466" />
-    <option name="SELECTION_BACKGROUND" value="292a2f" />
-    <option name="SELECTION_FOREGROUND" value="292a2f" />
+    <option name="SELECTION_BACKGROUND" value="4d5466" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="4d5466" />
     <option name="WHITESPACES" value="cccccc" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fa79ae" />
   </colors>
   <attributes>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -52,6 +55,12 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="BACKGROUND" value="6e6e6e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -126,8 +135,32 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="fa79ae" />
+        <option name="FOREGROUND" value="a7ebdd" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="fa79ae" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="7f8c98" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c8c8" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="a0d975" />
+        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="a7a7f7" />
+        <option name="ERROR_STRIPE_COLOR" value="b8cbf5" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -187,6 +220,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="fff15a" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -213,7 +247,7 @@
     </option>
     <option name="OC.DIRECTIVE">
       <value>
-        <option name="FOREGROUND" value="fa79ae" />
+        <option name="FOREGROUND" value="fb9e4d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -234,7 +268,7 @@
     </option>
     <option name="OC.HEADER_PATH">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff8170" />
       </value>
     </option>
     <option name="OC.IVAR">
@@ -312,7 +346,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="fa79ae" />
+        <option name="FOREGROUND" value="8ad1c3" />
       </value>
     </option>
     <option name="SCOPE_KEY_All">
