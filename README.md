@@ -1,8 +1,15 @@
 # Xcode Dark Color Scheme 
 This is a dark color scheme for JetBrains IDEs, based on Apple's dark-schemed editor in Xcode 10.
-* Currently works well for C/C++ and Python.
 
 ![](XcodeDarkScreenShot.png)
+
+## Supported Languages
+* :heavy_check_mark: Python
+* :heavy_check_mark: C
+* :heavy_check_mark: C++
+* :heavy_check_mark: Bash
+* :heavy_check_mark: Java
+* :heavy_check_mark: Kotlin
 
 ## Installation
 1. Go to `Settings` -> `Editor` -> `Color Scheme`
